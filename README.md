@@ -13,9 +13,7 @@ The purpose of this project was to gain hands-on experience with interactive map
 
 **Map URL:**
 
-https://taluccia.github.io/taluccia-airportproject/index.html
-
-
+<https://taluccia.github.io/taluccia_airportproject/>
 
 **Deliverables:**
 
